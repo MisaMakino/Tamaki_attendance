@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>体操教室出席登録</title>
+/*<title>体操教室出席登録</title>*/
 </head>
 <body>
  
